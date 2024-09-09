@@ -83,7 +83,7 @@ The network is trained for 10,000 epochs and the model output is displayed for e
 - **Other Optimizers**: Add new optimizers by extending the `Optimizer` base class.
 
 
-### Zetic ML Framework - MNIST Version
+## Zetic ML Framework - MNIST Version
 
 ### Overview
 
