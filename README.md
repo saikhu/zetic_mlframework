@@ -4,6 +4,10 @@
 - NOTE: _While I aimed to provide a more comprehensive implementation, I was unable to fully develop all the features I had envisioned due to time constraints. The current implementation demonstrates the basics of layer stacking, forward propagation, and backpropagation, but some aspects (e.g., more complex optimizers, additional layer types, or advanced model configurations) have not yet been fully realized._
 
 - _Total time spent on this assignment was approximately 10 hours, and this represents a simpler version of what I had initially planned._
+- There are two versions of the assignment:
+   - Simple Version: A basic neural network framework showcasing the core functionality such as layer stacking, activation functions, and optimization using a simple binary classification problem (XOR).
+
+   - MNIST Version: A more advanced implementation that includes handling the MNIST dataset, multi-class classification using the Softmax layer, and Cross-Entropy loss for evaluation. This version demonstrates the framework's extension to real-world data.
 
 ## Zetic ML Framework - Simple Version
 
