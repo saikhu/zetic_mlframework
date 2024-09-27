@@ -19,8 +19,8 @@ public:
     // Disable copy and move semantics
     NeuralNetwork(const NeuralNetwork&) = delete;
     NeuralNetwork& operator=(const NeuralNetwork&) = delete;
-    NeuralNetwork(NeuralNetwork&&) = delete;
-    NeuralNetwork& operator=(NeuralNetwork&&) = delete;
+    // NeuralNetwork(NeuralNetwork&&) = delete;
+    // NeuralNetwork& operator=(NeuralNetwork&&) = delete;
 
     // Function to add layers to the network
     void addLayer(Layer* layer);
